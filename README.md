@@ -59,12 +59,9 @@
                     <img src="https://leetcard.jacoblin.cool/_singhal_amit?theme=dark&font=Nunito" alt="LeetCode Stats" width="100%" />
                 </a>
                 <div align="center">
-                    <a href="https://github.com/ChinemeremChigbo/LeetCode-Badges?tab=readme-ov-file" target="_blank">
-                        <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50DaysBadge" width="20%" />
-                    </a>
-                    <a href="https://github.com/ChinemeremChigbo/LeetCode-Badges?tab=readme-ov-file" target="_blank">
-                        <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="Sep2024Badge" width="20%" />
-                    </a>
+                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/Badges/Daily-Medals/GIF/2025/2025-01.gif" width="100" title="Submit code daily in January 2025"><img width="20"/>
+                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/Badges/Annual-Medals/GIF/2025-50-days.gif" width="100" title="Submit code on 50+ distinct days in 2025"><img width="20"/>
+                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/Badges/Daily-Medals/GIF/2025/2025-02.gif" width="100" title="Submit code daily in February 2025">
                 </div>
             </p>
             <h2 align="center"> 🎵 Currently Listening 🎵 </h2>
