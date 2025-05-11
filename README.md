@@ -15,7 +15,7 @@
 |        |         |
 | :----: | :-----: |
 | <a href="https://github.com/deep0304/cryptoTracker"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=deep0304&repo=cryptoTracker&theme=vision-friendly-dark" /></a> | <a href="https://github.com/singhal-amit/note-keeper"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=singhal-amit&repo=note-keeper&theme=vision-friendly-dark" /></a>                         |
-| <a href="https://github.com/singhal-amit/job-hunt"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=singhal-amit&repo=job-hunt&theme=vision-friendly-dark" /></a>         | <a href="https://github.com/singhal-amit/sky-now"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=singhal-amit&repo=sky-now&theme=vision-friendly-dark" /></a> |
+| <a href="https://github.com/singhal-amit/Leetcode-Badges"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=singhal-amit&repo=Leetcode-Badges&theme=vision-friendly-dark" /></a>         | <a href="https://github.com/singhal-amit/sky-now"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=singhal-amit&repo=sky-now&theme=vision-friendly-dark" /></a> |
 
 </div>
 
@@ -56,12 +56,12 @@
             <h2 align="center"> 🏆 LeetCode Achievements </h2>
             <p align="center">
                 <a href="https://leetcode.com/u/_singhal_amit/" target="_blank">
-                    <img src="https://leetcard.jacoblin.cool/_singhal_amit?theme=dark&font=Nunito" alt="LeetCode Stats" width="100%" />
+                    <img src="https://leetcard.jacoblin.cool/singhal-amit?theme=dark&font=Nunito" alt="LeetCode Stats" width="100%" />
                 </a>
                 <div align="center">
-                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/Badges/Daily-Medals/GIF/2025/2025-03.gif" width="100" title="Submit code daily in January 2025"><img width="20"/>
+                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/Badges/Daily-Medals/GIF/2025/2025-04.gif" width="100" title="Submit code daily in January 2025"><img width="20"/>
                     <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/Badges/Annual-Medals/GIF/2025-100-days.gif" width="100" title="Submit code on 50+ distinct days in 2025"><img width="20"/>
-                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/Badges/Daily-Medals/GIF/2025/2025-02.gif" width="100" title="Submit code daily in February 2025">
+                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/Badges/Daily-Medals/GIF/2025/2025-03.gif" width="100" title="Submit code daily in February 2025">
                 </div>
             </p>
             <h2 align="center"> 🎵 Currently Listening 🎵 </h2>
