@@ -6,7 +6,13 @@
     <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif" width="100%">
 </div>
 
-<!-- Recent Projects -->
+<!-- Recent Projects Half Piece is over. Damn this was a long journey, which took 3 months to complete. I don't know what came over me to start this in the first place (maybe my friends were talking in peace and I wanted to experience piece too) but I laughed, got goosebumps, got burned over some fillers, HELL even got emotional in PEAK moments but in the end I really enjoyed watching this amazing anime with @everyone here.
+
+Arigato Minasan for following me through this journey. Just like Luffy and his friends, I want to concentrate and focus myself with my ending grad from this point onwards, so I will be taking a break. I don't know when I will resume with the New World Saga but I will experience the PEAK piece once more with my nakama-tachi. 
+<p align=left>See u all next time. <img width=39 src="https://i.ibb.co/yMHtwMg/output-onlinegiftools-1.gif" alt="output-onlinegiftools-1" border="0">
+
+
+<img align=left width=240 src="https://i.ibb.co/ZpqD8m54/Screenshot-from-2025-05-16-18-39-53.png" alt="Screenshot-from-2025-05-16-18-39-53" border="0"><img width=20><img  width=240 src="https://i.ibb.co/q3Nc5YY0/Screenshot-from-2025-05-16-18-46-11.png" alt="Screenshot-from-2025-05-16-18-46-11" border="0"> -->
 
 ## 📌 Recent Projects <a rel="noopener" href="https://drive.google.com/file/d/1lUOUrdvxvtWlSHuMmPiZtF0LwE4Yr9Nv/view?usp=drive_link"><img align="right" src="https://img.shields.io/badge/Resume-View%20CV-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Amit Singhal Resume"></a> <img align="right" src="https://komarev.com/ghpvc/?username=singhal-amit&color=blue&style=for-the-badge&label=Visitors" alt="Profile Views">
 
