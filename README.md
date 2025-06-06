@@ -11,12 +11,24 @@
 ## 📌 Recent Projects <a rel="noopener" href="https://drive.google.com/file/d/1sI8KoVyQsP-foIZi028nT9Fv0ibWC36M/view?usp=drive_link"><img align="right" src="https://img.shields.io/badge/View-Resume-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Amit Singhal Resume"></a> <img align="right" src="https://komarev.com/ghpvc/?username=singhal-amit&color=blue&style=for-the-badge&label=Visitors" alt="Profile Views">
 
 <div align="center">
-
-|        |         |
-| :----: | :-----: |
-| <a href="https://github.com/deep0304/cryptoTracker"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=deep0304&repo=cryptoTracker&theme=vision-friendly-dark" /></a> | <a href="https://github.com/singhal-amit/note-keeper"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=singhal-amit&repo=note-keeper&theme=vision-friendly-dark" /></a>                         |
-| <a href="https://github.com/singhal-amit/Leetcode-Badges"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=singhal-amit&repo=Leetcode-Badges&theme=vision-friendly-dark" /></a>         | <a href="https://github.com/singhal-amit/sky-now"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=singhal-amit&repo=sky-now&theme=vision-friendly-dark" /></a> |
-
+<table>
+    <tr>
+        <td width="50%" valign="top">
+            <a href="https://github.com/deep0304/cryptoTracker"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=deep0304&repo=cryptoTracker&theme=vision-friendly-dark" /></a>
+        </td>
+        <td width="50%" valign="center">
+            <a href="https://github.com/singhal-amit/note-keeper"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=singhal-amit&repo=note-keeper&theme=vision-friendly-dark" /></a>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%" valign="top">
+            <a href="https://github.com/singhal-amit/Leetcode-Badges"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=singhal-amit&repo=Leetcode-Badges&theme=vision-friendly-dark" /></a>
+        </td>
+        <td width="50%" valign="center">
+            <a href="https://github.com/singhal-amit/sky-now"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=singhal-amit&repo=sky-now&theme=vision-friendly-dark" /></a>
+        </td>
+    </tr>
+</table>
 </div>
 
 <!-- Skills & Leetcode -->
@@ -112,7 +124,7 @@
 ## 🌐 Connect with Me
 
 <a href="mailto:rakshit.singhal712@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a> <img width="15" />
-<a href="https://www.linkedin.com/in/singhal-amit"><img src="https://img.shields.io/badge/LinkedIn-0A0209?style=for-the-badge&logo=linkedin&logoColor=d5d5d5" /></a> <img width="15" />
+<a href="https://www.linkedin.com/in/singhal-amit"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A0209?style=for-the-badge&logo=linkedin-white&logoColor=d5d5d5" /></a> <img width="15" />
 <a href="https://instagram.com/_singhal_amit"><img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209" /></a> <img width="15" />
 <a href="https://leetcode.com/u/_singhal_amit/"><img src="https://img.shields.io/badge/LeetCode-0A0209?style=for-the-badge&logo=leetcode&logoColor=d5d5d5" /></a> <img width="15" />
 
