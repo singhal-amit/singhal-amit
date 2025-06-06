@@ -8,7 +8,7 @@
 
 <!-- Recent Projects -->
 
-## 📌 Recent Projects <a rel="noopener" href="https://drive.google.com/file/d/1sI8KoVyQsP-foIZi028nT9Fv0ibWC36M/view?usp=drive_link"><img align="right" src="https://img.shields.io/badge/Resume-View%20CV-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Amit Singhal Resume"></a> <img align="right" src="https://komarev.com/ghpvc/?username=singhal-amit&color=blue&style=for-the-badge&label=Visitors" alt="Profile Views">
+## 📌 Recent Projects <a rel="noopener" href="https://drive.google.com/file/d/1sI8KoVyQsP-foIZi028nT9Fv0ibWC36M/view?usp=drive_link"><img align="right" src="https://img.shields.io/badge/View-Resume-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Amit Singhal Resume"></a> <img align="right" src="https://komarev.com/ghpvc/?username=singhal-amit&color=blue&style=for-the-badge&label=Visitors" alt="Profile Views">
 
 <div align="center">
 
