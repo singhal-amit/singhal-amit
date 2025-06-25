@@ -67,7 +67,7 @@
         <td width="50%" valign="top">
             <h2 align="center"> 🏆 LeetCode Achievements </h2>
             <p align="center">
-                <a href="https://leetcode.com/u/_singhal_amit/" target="_blank">
+                <a href="https://leetcode.com/u/singhal-amit/" target="_blank">
                     <img src="https://leetcard.jacoblin.cool/singhal-amit?theme=dark&font=Nunito" alt="LeetCode Stats" width="100%" />
                 </a>
                 <div align="center">
