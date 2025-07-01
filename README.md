@@ -72,7 +72,7 @@
                 </a>
                 <div align="center">
                     <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/Badges/Annual-Medals/GIF/2025-100-days.gif" width="100" title="submitted code on 100+ distinct days in 2025"><img width="20"/>
-                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/Badges/Daily-Medals/GIF/2025/2025-05.gif" width="100" title="submitted code daily in May-25"><img width="20"/>
+                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/Badges/Daily-Medals/GIF/2025/2025-06.gif" width="100" title="submitted code daily in May-25"><img width="20"/>
                     <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/Badges/Annual-Medals/GIF/2025-50-days.gif" width="100" title="submitted code on 50+ distinct days in 2025">
                 </div>
             </p>
