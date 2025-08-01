@@ -94,6 +94,8 @@
 | <img align="center" alt="GitHub Stats" src="https://gh-readme-profile.vercel.app/api?username=singhal-amit&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true" /> | <img align="center" alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=singhal-amit&theme=vision-friendly-dark&hide_border=true&border_radius=15.2&mode=weekly&card_width=500" /> |
 | --- | --- |
 
+</div>
+
 <div align="center">
 
 | [![Activity graph](https://github-readme-activity-graph.vercel.app/graph/?username=singhal-amit&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph&height=350&days=20&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
@@ -108,26 +110,27 @@
         </td>
         <td width="30%" valign="center">
             <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=singhal-amit&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact&border_width=0&border_radius=15.2&hide_border=true" height="200px" />
+            <div align=center><hr/></div>
             <img align="center" alt="Profile Trophies" src="https://github-profile-trophy.vercel.app/?username=singhal-amit&theme=gruvbox&margin-w=3&no-bg=true&no-frame=true&row=2&column=3" />
         </td>
     </tr>
 </table>
 
 <div align="center">
-
+    
 | [![Holopin-badges](https://holopin.me/amit712singhal)](https://holopin.io/@amit712singhal) |
 | --- |
-
+    
 </div>
-
-<!-- Social Network -->
 
 ## 🌐 Connect with Me
 
+<div align="center">
 <a href="mailto:rakshit.singhal712@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a> <img width="15" />
 <a href="https://www.linkedin.com/in/singhal-amit"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A0209?style=for-the-badge&logo=linkedin-white&logoColor=d5d5d5" /></a> <img width="15" />
 <a href="https://instagram.com/_singhal_amit"><img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209" /></a> <img width="15" />
 <a href="https://leetcode.com/u/singhal-amit/"><img src="https://img.shields.io/badge/LeetCode-0A0209?style=for-the-badge&logo=leetcode&logoColor=d5d5d5" /></a> <img width="15" />
+</div>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif" width="100%">
