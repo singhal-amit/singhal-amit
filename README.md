@@ -71,10 +71,10 @@
                     <img src="https://leetcard.jacoblin.cool/singhal-amit?theme=dark&font=Nunito" alt="LeetCode Stats" width="100%" />
                 </a>
                 <div align="center">
-                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/Badges/Annual-Medals/GIF/2025-200-days.gif" width="100" title="submitted code on 200+ distinct days in 2025"><img width="20"/>
-                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/Badges/Annual-Medals/GIF/2025-100-days.gif" width="100" title="submitted code on 100+ distinct days in 2025"><img width="20"/>
-                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/Badges/Annual-Medals/GIF/2025-50-days.gif" width="100" title="submitted code on 50+ distinct days in 2025"><img width="20"/>
-                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/Badges/Daily-Medals/GIF/2025/2025-07.gif" width="100" title="submitted code daily in July-25">
+                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/Badges/Annual-Medals/GIF/2025-200-days.gif" width="80" title="submitted code on 200+ distinct days in 2025"><img width="20"/>
+                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/Badges/Annual-Medals/GIF/2025-100-days.gif" width="80" title="submitted code on 100+ distinct days in 2025"><img width="20"/>
+                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/Badges/Annual-Medals/GIF/2025-50-days.gif" width="80" title="submitted code on 50+ distinct days in 2025"><img width="20"/>
+                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/Badges/Daily-Medals/GIF/2025/2025-07.gif" width="80" title="submitted code daily in July-25">
                 </div>
             </p>
             <h2 align="center"> 🎵 Currently Listening 🎵 </h2>
