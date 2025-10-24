@@ -67,9 +67,7 @@
         <td width="50%" valign="top">
             <h2 align="center"> 🏆 LeetCode Achievements </h2>
             <p align="center">
-                <a href="https://leetcode.com/u/singhal-amit/" target="_blank">
                     <img src="https://leetcard.jacoblin.cool/singhal-amit?theme=dark&font=Nunito" alt="LeetCode Stats" width="100%" />
-                </a>
                 <div align="center">
                     <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/Badges/Annual-Medals/GIF/2025-200-days.gif" width="80" title="submitted code on 200+ distinct days in 2025"><img width="20"/>
                     <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/Badges/Annual-Medals/GIF/2025-100-days.gif" width="80" title="submitted code on 100+ distinct days in 2025"><img width="20"/>
