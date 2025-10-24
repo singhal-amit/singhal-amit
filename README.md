@@ -127,7 +127,6 @@
 <a href="mailto:rakshit.singhal712@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a> <img width="15" />
 <a href="https://www.linkedin.com/in/singhal-amit"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A0209?style=for-the-badge&logo=linkedin-white&logoColor=d5d5d5" /></a> <img width="15" />
 <a href="https://instagram.com/_singhal_amit"><img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209" /></a> <img width="15" />
-<a href="https://leetcode.com/u/singhal-amit/"><img src="https://img.shields.io/badge/LeetCode-0A0209?style=for-the-badge&logo=leetcode&logoColor=d5d5d5" /></a> <img width="15" />
 </div>
 
 <div align="center">
