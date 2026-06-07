@@ -67,17 +67,16 @@
         <td width="50%" valign="top">
             <h2 align="center"> 🏆 LeetCode Achievements </h2>
             <p align="center">
-                    <img src="https://leetcard.jacoblin.cool/singhal-amit?theme=dark&font=Nunito" alt="LeetCode Stats" width="100%" />
+                    <img src="https://leetcard.jacoblin.cool/vanshthakur005?theme=dark&font=Nunito" alt="LeetCode Stats" width="100%" />
                 <div align="center">
-                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual/2025-annual.gif" width="80" title="submitted code on 300+ distinct days in 2025"><img width="20"/>
-                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual/2025-200-days.gif" width="80" title="submitted code on 200+ distinct days in 2025"><img width="20"/>
-                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual/2025-100-days.gif" width="80" title="submitted code on 100+ distinct days in 2025"><img width="20"/>
-                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual/2025-50-days.gif" width="80" title="submitted code on 50+ distinct days in 2025">
-                </div>
+                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual medals/2026/2026-annual.gif" width="80" title="submitted code on 300+ distinct days in 2026"><img width="20"/>
+                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual medals/2025/2025-annual.gif" width="80" title="submitted code on 300+ distinct days in 2025"><img width="20"/>
+                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual medals/2024/2024-annual.gif" width="80" title="submitted code on 300+ distinct days in 2024"><img width="20"/>
+                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual medals/2023/2023-annual.gif" width="80" title="submitted code on 300+ distinct days in 2023"><img width="20"/>
             </p>
             <h2 align="center"> 🎵 Currently Listening 🎵 </h2>
             <div align="center" valign="bottom">
-                <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fcalzmcr5fnwe6my6lo3i5ltbe&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="SpotifyCard" width="80%">
+                <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gru45265tvrvvvibgnoifpkpbu&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="SpotifyCard" width="80%">
             </div>
         </td>
     </tr>
@@ -123,7 +122,7 @@
 
 ## 🌐 Connect with Me
 
-<div align="center">
+<div>
 <a href="mailto:rakshit.singhal712@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a> <img width="15" />
 <a href="https://www.linkedin.com/in/singhal-amit"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A0209?style=for-the-badge&logo=linkedin-white&logoColor=d5d5d5" /></a> <img width="15" />
 <a href="https://instagram.com/_singhal_amit"><img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209" /></a> <img width="15" />
