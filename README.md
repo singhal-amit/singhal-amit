@@ -69,10 +69,11 @@
             <p align="center">
                     <img src="https://leetcard.jacoblin.cool/vanshthakur005?theme=dark&font=Nunito" alt="LeetCode Stats" width="100%" />
                 <div align="center">
-                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual medals/2026/2026-annual.gif" width="80" title="submitted code on 300+ distinct days in 2026"><img width="20"/>
+                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual medals/2026/2026-annual.png" width="80" title="submitted code on 300+ distinct days in 2026"><img width="20"/>
                     <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual medals/2025/2025-annual.gif" width="80" title="submitted code on 300+ distinct days in 2025"><img width="20"/>
                     <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual medals/2024/2024-annual.gif" width="80" title="submitted code on 300+ distinct days in 2024"><img width="20"/>
                     <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual medals/2023/2023-annual.gif" width="80" title="submitted code on 300+ distinct days in 2023"><img width="20"/>
+                </div>
             </p>
             <h2 align="center"> 🎵 Currently Listening 🎵 </h2>
             <div align="center" valign="bottom">
@@ -88,7 +89,7 @@
 
 <div align="center">
 
-| <img align="center" alt="GitHub Stats" src="https://gh-readme-profile.vercel.app/api?username=singhal-amit&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true" /> | <img align="center" alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=singhal-amit&theme=vision-friendly-dark&hide_border=true&border_radius=15.2&mode=weekly&card_width=500" /> |
+| <img align="center" alt="GitHub Stats" src="https://gh-readme-profile.vercel.app/api?username=singhal-amit&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true" /> | <img align="center" alt="GitHub Streak" src="https://nirzak-streak-stats.koyeb.app?user=singhal-amit&theme=vision-friendly-dark&hide_border=true&border_radius=15.2&mode=weekly&card_width=500" /> |
 | --- | --- |
 
 </div>
@@ -106,9 +107,9 @@
             <img  alt="Contributions" width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg">
         </td>
         <td width="30%" valign="center">
-            <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=singhal-amit&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact&border_width=0&border_radius=15.2&hide_border=true" height="200px" />
+            <img align="center" alt="Top Languages" src="https://github-stats-extended.vercel.app/api?username=singhal-amit&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact&border_width=0&border_radius=15.2&hide_border=true" height="200px" />
             <div align=center><hr/></div>
-            <img align="center" alt="Profile Trophies" src="https://github-profile-trophy.vercel.app/?username=singhal-amit&theme=gruvbox&margin-w=3&no-bg=true&no-frame=true&row=2&column=3" />
+            <img align="center" alt="Profile Trophies" src="https://github-profile-trophy-fork-two.vercel.app/?username=singhal-amit&theme=gruvbox&margin-w=3&no-bg=true&no-frame=true&row=2&column=3" />
         </td>
     </tr>
 </table>
