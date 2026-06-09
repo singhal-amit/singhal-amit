@@ -14,18 +14,18 @@
 <table>
     <tr>
         <td width="50%" valign="top">
-            <a href="https://github.com/deep0304/cryptoTracker"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=deep0304&repo=cryptoTracker&theme=vision-friendly-dark" /></a>
+            <a href="https://github.com/singhal-amit/singhal-amit"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=singhal-amit&repo=singhal-amit&theme=vision-friendly-dark" /></a>
         </td>
         <td width="50%" valign="center">
-            <a href="https://github.com/singhal-amit/note-keeper"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=singhal-amit&repo=note-keeper&theme=vision-friendly-dark" /></a>
+            <a href="https://github.com/singhal-amit/Sky-Now"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=singhal-amit&repo=sky-now&theme=vision-friendly-dark" /></a>
         </td>
     </tr>
     <tr>
         <td width="50%" valign="top">
-            <a href="https://github.com/singhal-amit/Job-Hunt"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=singhal-amit&repo=Job-Hunt&theme=vision-friendly-dark" /></a>
+            <a href="https://github.com/singhal-amit/Note-Keeper"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=singhal-amit&repo=Note-Keeper&theme=vision-friendly-dark" /></a>
         </td>
         <td width="50%" valign="center">
-            <a href="https://github.com/singhal-amit/sky-now"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=singhal-amit&repo=sky-now&theme=vision-friendly-dark" /></a>
+            <a href="https://github.com/singhal-amit/LeetCode-Badges"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=singhal-amit&repo=LeetCode-Badges&theme=vision-friendly-dark" /></a>
         </td>
     </tr>
 </table>
@@ -69,10 +69,10 @@
             <p align="center">
                     <img src="https://leetcard.jacoblin.cool/vanshthakur005?theme=dark&font=Nunito" alt="LeetCode Stats" width="100%" />
                 <div align="center">
-                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual medals/2026/2026-annual.png" width="80" title="submitted code on 300+ distinct days in 2026"><img width="20"/>
-                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual medals/2025/2025-annual.gif" width="80" title="submitted code on 300+ distinct days in 2025"><img width="20"/>
-                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual medals/2024/2024-annual.gif" width="80" title="submitted code on 300+ distinct days in 2024"><img width="20"/>
-                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual medals/2023/2023-annual.gif" width="80" title="submitted code on 300+ distinct days in 2023"><img width="20"/>
+                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual medals/2026/2026-annual.png" width="70" title="submitted code on 300+ distinct days in 2026"><img width="10"/>
+                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual medals/2025/2025-annual.gif" width="70" title="submitted code on 300+ distinct days in 2025"><img width="10"/>
+                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual medals/2024/2024-annual.gif" width="70" title="submitted code on 300+ distinct days in 2024"><img width="10"/>
+                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual medals/2023/2023-annual.gif" width="70" title="submitted code on 300+ distinct days in 2023">
                 </div>
             </p>
             <h2 align="center"> 🎵 Currently Listening 🎵 </h2>
@@ -124,7 +124,7 @@
 ## 🌐 Connect with Me
 
 <div>
-<a href="mailto:rakshit.singhal712@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a> <img width="15" />
+<a href="mailto:rksinghal.amit@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a> <img width="15" />
 <a href="https://www.linkedin.com/in/singhal-amit"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A0209?style=for-the-badge&logo=linkedin-white&logoColor=d5d5d5" /></a> <img width="15" />
 <a href="https://instagram.com/_singhal_amit"><img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209" /></a> <img width="15" />
 </div>
